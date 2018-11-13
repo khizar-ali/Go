@@ -15,3 +15,4 @@ func subtract(base int, nums ...int) int {
 func main() {
 	fmt.Println(subtract(4, 1, 2));
 }
+

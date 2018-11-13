@@ -19,3 +19,4 @@ func Factorial(n uint64)(result uint64) {
 	}
 	return 1
 }
+

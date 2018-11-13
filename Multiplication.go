@@ -17,3 +17,4 @@ func multiply(nums ...int) int {
 func main() {
 	fmt.Println(multiply(4, 1, 2));
 }
+

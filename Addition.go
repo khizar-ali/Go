@@ -16,3 +16,4 @@ func add(nums ...int) int {
 func main() {
 	fmt.Println(add(1, 2, 3, 4, 5));
 }
+
